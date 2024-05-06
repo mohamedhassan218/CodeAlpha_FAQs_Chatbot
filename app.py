@@ -12,7 +12,7 @@ from Bot import Bot
 import nltk
 
 # Get instance of our bot.
-bot = Bot("temp.txt")
+bot = Bot("data.txt")
 
 
 def chat(bot, user_response):
