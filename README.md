@@ -18,8 +18,8 @@ The project is divided into the following files:
 
 ## Concepts
 
-- [nltk](https://www.nltk.org/)
-- [streamlit](https://streamlit.io/)
+- [NLTK](https://www.nltk.org/)
+- [Streamlit](https://streamlit.io/)
 - Tokenization, stemming and lemmatization.
 - TF-IDF.
 - Bag of words.
